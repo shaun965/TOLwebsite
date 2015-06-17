@@ -103,7 +103,8 @@ body {
   background-repeat: no-repeat;
   */
   /*padding: 10em 0em 14em 0em;*/
-  text-align: left; }
+  text-align: left;
+  background-color: #eaf2f2; }
   .main .rows .large-8 columns h1 {
     font-family: futura;
     font-size: 1.5em;
